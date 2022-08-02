@@ -10,7 +10,7 @@ Select the Online KMS Activation
 
 # Why is the Massgravel Activation Script hosted on Discord CDN?
 
-Due to Password Protection and the File beeing ziped with 7zip and me beeing lazy I decided to host the Activation Script on Discord CDN.
+Due to Password Protection and the File beeing zipped with 7zip and me beeing lazy I decided to host the Activation Script on Discord CDN.
 
 # Links
 
