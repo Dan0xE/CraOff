@@ -24,4 +24,4 @@ Due to Password Protection and the File beeing ziped with 7zip and me beeing laz
 
 `Please not that i am not the author of the tools linked nor responsible for the Content shared on the linked website. Use the Software at your own Risk!!!.`
 
-`Please note that this Project is for educational purposes and research purposes only. I am not responsible for any damage caused by using this Software. Any legal responsibility belongs to the person or organization that uses it. I recommend everyone who os using this tool to get an office license from the official website`
+`Please note that this Project is for educational purposes and research purposes only. I am not responsible for any damage caused by using this Software. Any legal responsibility belongs to the person or organization that uses it. I recommend everyone who is using this tool to get an office license from the official website`
