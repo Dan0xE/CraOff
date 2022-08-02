@@ -1,18 +1,18 @@
-# How does this work?
+## How does this work?
 
 First we need a tool to extract a link from the Microsoft Download Server in order to get an Office Image, then we download an Office Image from the Extracted Link. After that we download the Massgravel Activation Script Package in order to Activate Office. Before that, double click on the .img file in the folder the tool is in and run the installer, wait till it's finished and then proceed with the activation.
 
-# How do I activate Office with Massgravel?
+## How do I activate Office with Massgravel?
 
 Select the Online KMS Activation
 
 - Note that you will have to renew the license every 180 days. For more info on this, look at the  [Massgravel Docs](https://massgrave.dev/)
 
-# Why is the Massgravel Activation Script hosted on Discord CDN?
+## Why is the Massgravel Activation Script hosted on Discord CDN?
 
 Due to Password Protection and the File beeing zipped with 7zip and me beeing lazy I decided to host the Activation Script on Discord CDN.
 
-# Links
+## Links
 
 [Link to Massgarvel Activation Script](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
