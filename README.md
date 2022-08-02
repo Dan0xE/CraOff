@@ -1,6 +1,6 @@
 # How does this work?
 
-First we need a tool to extract a link from the Microsoft Download Server in order to get an Office Image, then we download an Office Image from the Extracted Link. After that we download the Massgravel Activation Script Package in order to Activate Office.
+First we need a tool to extract a link from the Microsoft Download Server in order to get an Office Image, then we download an Office Image from the Extracted Link. After that we download the Massgravel Activation Script Package in order to Activate Office. Before that, double click on the .img file in the folder the tool is in and run the installer, wait till it's finished and then proceed with the activation.
 
 # How do I activate Office with Massgravel?
 
