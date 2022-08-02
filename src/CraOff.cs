@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace HelloWorld
+namespace CraOffice
 {
     class Program
     {
