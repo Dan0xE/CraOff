@@ -25,3 +25,27 @@ Due to Password Protection and the File beeing zipped with 7zip and me beeing la
 `Please note that i am not the author of the tools linked nor responsible for the Content shared on the linked websiteS. Use the Software and the Websites at your own Risk!!!.`
 
 `Please note that this Project is for educational purposes and research purposes only. I am not responsible for any damage caused by using this Software. Any legal responsibility belongs to the person or organization that uses it. I recommend everyone who is using this tool to get an office license from the official website`
+
+## License
+
+MIT License
+
+Copyright (c) 2022 Daniel 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
