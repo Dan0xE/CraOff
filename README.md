@@ -22,7 +22,7 @@ Due to Password Protection and the File beeing zipped with 7zip and me beeing la
 
 [Buy a Office License](https://www.microsoft.com/de-de/microsoft-365/buy/compare-all-microsoft-365-products?tab=1&rtc=1&market=)
 
-`Please note that i am not the author of the tools linked nor responsible for the Content shared on the linked websiteS. Use the Software and the Websites at your own Risk!!!.`
+`Please note that i am not the author of the tools linked nor responsible for the Content shared on the linked websites. Use the Software and the Websites at your own Risk!!!.`
 
 `Please note that this Project is for educational purposes and research purposes only. I am not responsible for any damage caused by using this Software. Any legal responsibility belongs to the person or organization that uses it. I recommend everyone who is using this tool to get an office license from the official website`
 
